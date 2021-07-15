@@ -1,9 +1,9 @@
-// import Header from "./components/Header";
+import Header from "./components/Header";
 
 const App = () => {
   return (
     <div>
-      Master
+      <Header/>
     </div>
   );
 }
